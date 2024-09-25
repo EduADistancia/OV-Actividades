@@ -28,7 +28,7 @@ function crearCuestionario(datos){
             chBox.id = `${d["Respuesta"] === "No" ? d["Respuesta"] : "Si"}${contadorId}`;
             
             let etiqRta = document.createElement('label');
-            etiqRta.for = `${d["Respuesta"]  === "No" ? d["Respuesta"] : "Si"}${contadorId}`;
+            etiqRta.setAttribute('for', `${d["Respuesta"]  === "No" ? d["Respuesta"] : "Si"}${contadorId}`);
             etiqRta.innerHTML = d["Respuesta"]
             
             let devolucionP = document.createElement('p');
