@@ -1,0 +1,62 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Respuesta": "¿Estás pensando en estudiar una carrera o curso y te surgen dudas sobre qué decisión tomar?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "No",
+        "Devolucion": "Si ya tomaste una decisión y definiste estudiar alguna opción educativa, puede ser útil explorar y profundizar aspectos relacionados al campo ocupacional. Te proponemos ingresar a Conocete, una web de orientación vocacional de la Agencia de Habilidades para el Futuro, en la que podrás encontrar diferentes recursos que te ayudarán a reflexionar sobre tus proyectos futuros."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "Sí",
+        "Devolucion": "Tomar decisiones muchas veces resulta una tarea difícil, sobre todo cuando se relacionan con proyectos futuros. Identificar cuáles son tus intereses e informarte sobre las opciones educativas te ayudará al momento de elegir. Este curso te permitirá explorar tus intereses y conocer la amplia oferta educativa.  En el módulo 1 podrás interiorizarte en el tema de las elecciones, y esto podrá contribuir en tus decisiones"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Respuesta": "¿Te gustaría tener un espacio para reflexionar acerca de tus intereses?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "No",
+        "Devolucion": "Si ya tomaste una decisión y definiste estudiar alguna opción educativa, puede ser útil explorar y profundizar aspectos relacionados al campo ocupacional. Te proponemos ingresar a Conocete, una web de orientación vocacional de la Agencia de Habilidades para el Futuro, en la que podrás encontrar diferentes recursos que te ayudarán a reflexionar sobre tus proyectos futuros."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "Sí",
+        "Devolucion": "Resulta significativo poder tener un espacio de reflexión acerca de aquello que te gusta ya que puede suceder que tengas varios intereses al mismo tiempo y a la vez, que los mismos vayan cambiando a lo largo de tu vida. Este curso podrá ser de tu utilidad, ya que te brindará herramientas para reflexionar sobre aquello que te gusta. Tené en cuenta que en el módulo 2 podrás profundizar en este tema en particular."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Respuesta": "¿Sentís que te falta información para tomar una decisión sobre tus estudios?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "No",
+        "Devolucion": "Si ya tomaste una decisión y definiste estudiar alguna opción educativa, puede ser útil explorar y profundizar aspectos relacionados al campo ocupacional. Te proponemos ingresar a Conocete, una web de orientación vocacional de la Agencia de Habilidades para el Futuro, en la que podrás encontrar diferentes recursos que te ayudarán a reflexionar sobre tus proyectos futuros."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "Sí",
+        "Devolucion": "Conocer la duración total de un estudio, si es una institución de gestión pública o privada, la ubicación geográfica de la misma, son algunos aspectos a tener en cuenta al momento de tomar una decisión. En el módulo 3 de este curso podrás informarte sobre las diferentes opciones educativas."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Respuesta": "¿Terminaste tus estudios y se te plantean dudas respecto a cómo continuar tus proyectos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "No",
+        "Devolucion": "Si ya tomaste una decisión y definiste estudiar alguna opción educativa, puede ser útil explorar y profundizar aspectos relacionados al campo ocupacional. Te proponemos ingresar a Conocete, una web de orientación vocacional de la Agencia de Habilidades para el Futuro, en la que podrás encontrar diferentes recursos que te ayudarán a reflexionar sobre tus proyectos futuros."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Respuesta": "Sí",
+        "Devolucion": "Las elecciones no se realizan de una vez y para siempre, se plantean y redefinen a lo largo de la vida. Puede pasar que elijas algo porque te agradaba y un tiempo después cambies de opinión, y eso que antes te gustaba ya no te resulte tan atractivo. Este curso podrá ayudarte a repensar tus proyectos."
+    }
+]
