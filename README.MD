@@ -9,3 +9,5 @@ Vista de actividades:
 - [Cuestionario perfil laboral](https://eduadistancia.github.io/OV-Actividades/PerfilLaboral/)
 - [Cuestionario CV](https://eduadistancia.github.io/OV-Actividades/CuestionarioCV/)
 - [Preferencias laborales](https://eduadistancia.github.io/OV-Actividades/PrefLaborales/)
+- [Cuestionario Revisión Módulo 1](https://eduadistancia.github.io/OV-Actividades/RevMod1/)
+- [Cuestionario Revisión Módulo 2](https://eduadistancia.github.io/OV-Actividades/RevMod2/)
