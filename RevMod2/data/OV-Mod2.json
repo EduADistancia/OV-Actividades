@@ -1,0 +1,142 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las áreas de interés son...",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El conjunto de carreras y estudios afines a un campo ocupacional.",
+        "Devolucion": "Se denomina área de interés al conjunto de carreras y estudios afines a un campo profesional. Hay diversas maneras de organizar estas áreas en función de los diferentes tipos y criterios de agrupamiento que se adopten, pero ninguno responde absolutamente a la realidad. Esta forma de organizar la información relacionada a los diferentes campos profesionales permite continuar profundizando en la identificación de los intereses y gustos.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Zonas geográficas prioritarias para el desarrollo económico de una región.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El conjunto de gustos e intereses que tiene cada persona.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Los intereses…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Son aquellos montos que se pagan por adquirir un préstamo.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Son las preferencias que tenemos por ciertas temáticas y/o actividades.",
+        "Devolucion": "Los intereses ponen de manifiesto las preferencias que tenemos por ciertas temáticas y/o actividades. Podemos tener varios intereses al mismo tiempo y también puede suceder que a lo largo de la vida vayan cambiando nuestras preferencias. Dichos intereses pueden funcionar como impulso para desarrollar proyectos educativos y/o laborales a futuro.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Se mantienen sin variaciones a lo largo de nuestra vida.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El área de interés \"jurídica\"...",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Abarca saberes y disciplinas relacionadas con el desarrollo de actividades físicas y competiciones.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Se centra en el estudio, la promoción, el mantenimiento y la restauración del bienestar físico, mental y social de los individuos y las comunidades.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Abarca el estudio, la aplicación y la interpretación de las leyes y regulaciones que rigen una sociedad.",
+        "Devolucion": "El área de interés \"jurídica\" busca garantizar que las normas legales se cumplan y se apliquen de manera justa y equitativa. Esto involucra resolver conflictos legales, proteger los derechos individuales y colectivos, y contribuir al mantenimiento del orden público.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "A Clara podrían interesarle actividades ocupacionales relacionadas con…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Sociales\"",
+        "Devolucion": "El área de \"sociales\" abarca una amplia gama de disciplinas y saberes que se centran en el estudio del comportamiento humano, las sociedades y las interacciones entre individuos y grupos. Buscan comprender cómo se forman, desarrollan y cambian las estructuras sociales, culturales y políticas a lo largo del tiempo. A menudo, estas disciplinas se entrelazan y se complementan entre sí, brindando una comprensión más completa de la experiencia humana y social. También engloba aspectos relacionados con la enseñanza y el aprendizaje en el contexto formal y no formal. Asimismo, incluye la traducción y la interpretación de idiomas extranjeros.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Ingeniería e informática\".",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Exactas y naturales\".",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La licenciatura en ciencias de datos pertenece a…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Exactas y naturales\"",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Economía y administración\"",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El área de \"Ingeniería e informática\"",
+        "Devolucion": "La licenciatura en ciencias de datos forma parte del área de \"Ingeniería e informática\". La misma, se centra en el desarrollo, construcción mantenimiento y mejora de diversos sistemas, procesos y productos con el objetivo de satisfacer necesidades humanas. Las personas que se desempeñan en estas áreas enfrentan desafíos diversos, como la creación de infraestructuras para mejorar la calidad de vida o el desarrollo de dispositivos y software innovadores que transforman la vida cotidiana.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    }
+]

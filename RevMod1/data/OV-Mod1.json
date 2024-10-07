@@ -1,0 +1,142 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las elecciones...",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Son para siempre.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pueden modificarse a lo largo de la vida.",
+        "Devolucion": "Elegimos en todo momento y en cada elección se ponen en juego diversos factores. Las elecciones no se realizan de una vez y para siempre, se plantean y redefinen a lo largo de la vida. Teniendo en cuenta que las elecciones no son siempre definitivas, puede pasar que elijamos algo porque nos agrada y un tiempo después cambiemos de opinión, y eso que antes nos gustaba ya no nos resulte atractivo",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Únicamente se llevan a cabo en función de las expectativas personales.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué es la \"vocación\"?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es algo que traemos con nosotros/as y hay que descubrirlo.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tiene que ver con nuestros dones y talentos.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es una construcción e implica una búsqueda personal.",
+        "Devolucion": "Actualmente, se considera la vocación como una construcción personal, que se va realizando a través del tiempo. Implica más una búsqueda de aquello que nos gusta o nos imaginamos haciendo, más que un descubrimiento. Por lo tanto, puede pensarse que algunas personas tal vez tengan más de una vocación o que la misma pueda ir cambiando en distintas etapas de la vida.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las representaciones sociales…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Se adquieren de manera hereditaria.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tienen un carácter social ya que son creadas y compartidas por grupos de personas (familia, escuela, comunidad).",
+        "Devolucion": "Las representaciones sociales se construyen a través de la interacción con otros, tales como la familia, el grupo de pares, en la escuela y en el trabajo, y permiten otorgar una valoración a aquello que nos sucede en la vida cotidiana (Aisenson D., 2011).",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Dependen del desarrollo biológico",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Cuando Roxana comparte a sus familiares que proyecta comenzar a estudiar, la reacción que toman podría caracterizarse como…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un prejuicio, que es una creencia positiva respecto a otras personas.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una opinión, que refleja la realidad de las personas.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un prejuicio, que es una creencia negativa acerca de ciertos aspectos de la realidad.",
+        "Devolucion": "En el caso de Roxana, cuando comparte a sus familiares que proyecta comenzar a estudiar, su madre cuestiona su decisión planteando que no es conveniente que desatienda a sus hijos/as. Esta actitud podría relacionarse con estereotipos de género que sostienen el ejercicio de las tareas de cuidado como una actividad naturalmente asociada a las mujeres.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Es importante reflexionar sobre la propia historia al momento de tomar una decisión sobre nuestros proyectos personales?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí. Recordar experiencias permite que puedan ser resignificadas para próximas decisiones.",
+        "Devolucion": "A la hora de construir los proyectos futuros, es importante revisar las experiencias (personales, educativas y/o laborales). Recordar dichas experiencias permite que puedan ser resignificadas y así, otorgarle valor a aquellas anécdotas, elecciones, vivencias que sean significativas para próximas decisiones.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No. Reflexionar sobre la propia historia no resulta relevante al momento de tomar decisiones",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En ocasiones puede ser relevante, pero en la mayoría de las situaciones no lo es.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]
