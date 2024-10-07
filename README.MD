@@ -7,3 +7,5 @@ Vista de actividades:
 - [Punto de partida perfil laboral](https://eduadistancia.github.io/OV-Actividades/PtoDePartidaPerfil/)
 - [Punto de partida búsqueda laboral](https://eduadistancia.github.io/OV-Actividades/PtoDePartidaBusqueda/)
 - [Cuestionario perfil laboral](https://eduadistancia.github.io/OV-Actividades/PerfilLaboral/)
+- [Cuestionario CV](https://eduadistancia.github.io/OV-Actividades/CuestionarioCV/)
+- [Preferencias laborales](https://eduadistancia.github.io/OV-Actividades/PrefLaborales/)
