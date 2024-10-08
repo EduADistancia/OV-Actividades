@@ -4,10 +4,5 @@
 Vista de actividades:
 - [Punto de Partida](https://eduadistancia.github.io/OV-Actividades/PuntoDePartida/)
 - [Actividad 1 - Armado de perfil de Olivia](https://eduadistancia.github.io/OV-Actividades/Encuesta1/)
-- [Punto de partida perfil laboral](https://eduadistancia.github.io/OV-Actividades/PtoDePartidaPerfil/)
-- [Punto de partida búsqueda laboral](https://eduadistancia.github.io/OV-Actividades/PtoDePartidaBusqueda/)
-- [Cuestionario perfil laboral](https://eduadistancia.github.io/OV-Actividades/PerfilLaboral/)
-- [Cuestionario CV](https://eduadistancia.github.io/OV-Actividades/CuestionarioCV/)
-- [Preferencias laborales](https://eduadistancia.github.io/OV-Actividades/PrefLaborales/)
 - [Cuestionario Revisión Módulo 1](https://eduadistancia.github.io/OV-Actividades/RevMod1/)
 - [Cuestionario Revisión Módulo 2](https://eduadistancia.github.io/OV-Actividades/RevMod2/)
