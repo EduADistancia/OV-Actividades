@@ -1,0 +1,142 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Lucas en su plan de acción definió como objetivo a corto plazo…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conseguir un empleo.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Terminar el secundario.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Anotarse para cursar en un Centro de Formación Profesional.",
+        "Devolucion": "Lucas luego de informarse sobre las opciones educativas de corta duración, decidió que quiere inscribirse en el curso de auxiliar de instalación domiciliaria de gas ya que le comentaron que tiene rápida salida laboral.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué implica el plan de acción?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Proponerse objetivos a corto, mediano y largo plazo.",
+        "Devolucion": "Para decidir es necesario accionar en función de aquello que estamos eligiendo. Para eso, es de utilidad diseñar un plan que te permita identificar qué metas aspiras conseguir y qué acciones deberías realizar para llevarlas a cabo, con el objetivo de planificar tu proyecto educativo y/o laboral.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Enfocarse únicamente en los objetivos a corto plazo.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Darle prioridad a los objetivos a mediano y largo plazo.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La Formación Técnica Superior…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Abarca cursos de corta duración.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Brinda formación para el ejercicio docente.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Brinda una formación específica en un área de conocimiento.",
+        "Devolucion": "Las tecnicaturas se vinculan a estudios de tipo técnico. Se trata de una formación superior no universitaria y brindan una formación más específica sobre una rama de conocimiento.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La Formación Profesional…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Permite obtener título de licenciatura.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Propicia la adquisición de competencias para el ejercicio de distintos oficios.",
+        "Devolucion": "La Formación Profesional capacita a las personas para el desempeño de una actividad profesional a través de cursos de corta duración. Están destinados a la adquisición de competencias profesionales que permitan el ejercicio de distintos trabajos y oficios.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tiene una duración mayor a 4 años.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La diferencia entre una carrera de Formación Técnica Superior y una carrera universitaria es…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La salida laboral. La formación universitaria es una opción que garantiza mejores oportunidades laborales que la de Formación Técnica Superior.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La duración. Las carreras universitarias suelen ser más extensas.",
+        "Devolucion": "Mientras que las carreras de Formación Técnica Superior tienen una duración de 3 años,  las carreras universitarias por lo general, pueden completarse en cuatro o cinco años aunque ese tiempo puede variar según cada carrera y cada estudiante.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La formación. Las carreras universitarias brindan una mejor formación.",
+        "Devolucion": "No es correcto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]
